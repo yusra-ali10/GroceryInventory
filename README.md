@@ -1,8 +1,6 @@
 # Grocery Store Inventory Management System
 
-**Course:** SW 212 - Data Structures & Algorithms (Open Ended Lab)
-**Group:** A (Linked List)
-**Student:** Yusra Khuhro (K25SW-004)
+**Student:** Yusra Khuhro
 **Instructor:** Engr. Asmatullah Zubair
 **Department:** Software Engineering, MUET SZAB Campus, Khairpur Mir's
 
